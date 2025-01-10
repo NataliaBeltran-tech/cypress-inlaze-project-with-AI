@@ -1,0 +1,29 @@
+{
+  "name": "cypress-inlaze-project",
+  "version": "1.0.0",
+  "description": "Prueba técnica QA en donde se ponen a prueba algunos casos de uso de un sitio web mediante scripts de automatización realizados en la herramienta Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaBeltran-tech/Test-QA-Inlaze-Website.git"
+  },
+  "keywords": [
+    "Test",
+    "QA",
+    "Inlaze",
+    "Website"
+  ],
+  "author": "Natalia Beltrán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliaBeltran-tech/Test-QA-Inlaze-Website/issues"
+  },
+  "homepage": "https://github.com/NataliaBeltran-tech/Test-QA-Inlaze-Website#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
